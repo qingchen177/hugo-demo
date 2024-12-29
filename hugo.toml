@@ -1,0 +1,4 @@
+baseURL = 'https://qingchen177.github.io/hugo-demo/'
+languageCode = 'zh-Hans-CN'
+title = 'Qingchen'
+theme = 'ananke'
